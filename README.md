@@ -1,3 +1,3 @@
 # reactjs-todolist
 
-TODO APP W. REACTJS
+Simple TODO APP using REACTJS
